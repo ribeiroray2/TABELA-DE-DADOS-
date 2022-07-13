@@ -1,0 +1,49 @@
+OPERADORES RELACIONAIS:
+similaridade == diferença !=
+e tamanho > maior / maior igual >= / menor < / menor igual <= 
+
+(sempre existiram pelo menos dois operandos)
+
+
+OPERADORES LÓGICOS:
+Tipos: 
+Conjunção simb: && term: and(e) / resultado só será verdadeiro quando ambos forem verdadeiro, caso contrário será falso
+Disjunção simb: || term: or(ou) / resultado só será falso quando ambos forem falso, caso contrário será verdadeiro 
+Disjunção exclusiva simb: ^ term: xor / resultado só será verdadeiro quando ambos forem opostos, caso contrário será falso
+Negaçao simb: ! term: inverção / inverte valores 
+
+
+CONTROLE DE FLUXOS:
+São estruturas que direcionam o fluxo de execução de codigo
+Tipos: 
+Decisão: if =, if-else, if-else-if, switch e operador ternario 
+Avaliação uma condição booleana ou variavel para direcionar o fluxo de execução
+
+Switch é para valores exatos e if para expressões booleanas
+Repetição: for, while, do while 
+Interrupção: break, continue e return
+
+
+
+BLOCOS: ´
+É um grupo de 0 codigos quais trabalham em conjunto para executar uma operação 
+
+Tipos:
+Locais: Dentro de métodos
+Estáticos: Dentro de classes 
+Instância dentro de classes
+
+Criação:
+{
+
+...
+
+
+}
+
+
+
+
+
+
+
